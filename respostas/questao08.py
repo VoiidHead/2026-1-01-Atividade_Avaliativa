@@ -11,3 +11,5 @@ if SimpsonGamer > 100:
     print(f'A soma de {S}, {E}, {X} & {O} é maior que 100')
 elif SimpsonGamer < 100:
     print(f'A soma de {S}, {E}, {X} & {O} é menor que 100')
+elif SimpsonGamer = 100:
+    print(f'A soma de {S}, {E}, {X} & {O} é igual a 100')

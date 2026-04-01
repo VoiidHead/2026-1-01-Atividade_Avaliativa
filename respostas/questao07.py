@@ -5,6 +5,7 @@ latina = float(input())
 mente = float(input())
 exclamação = float(input())
 
+#eu já sabia que dá pra fazer com min e max, mas quis seguir o que já havia sido passado 
 safadezaMAX = float #abc acb bac bca cab cba, latina mente excl
 if pau > latina > mente > exclamação:
     safadezaMAX = pau
